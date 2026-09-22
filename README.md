@@ -6,7 +6,5 @@ Aplikasi sederhana untuk melakukan enkripsi dan dekripsi menggunakan algoritma k
 
 - Enkripsi dan dekripsi algoritma klasik:
   - Caesar Cipher
-  - 
+
 - Enkripsi dan dekripsi algoritma modern:
-  - 
-  - 
